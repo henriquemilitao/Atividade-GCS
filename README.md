@@ -1,2 +1,2 @@
 # Atividade-GCS
-Atividades da matéria GCS
+Fazendo alterações
